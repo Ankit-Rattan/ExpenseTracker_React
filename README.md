@@ -7,8 +7,10 @@ This web-app based on CRUD operations which show your specific expenses in more 
 
 # To Run :
  - Track the code in your system.
- - Use the following command : 
+ - Use the following command :
+        <br/>
         - npm i
+         <br/>
         - npm run dev
 
 # React + Vite
