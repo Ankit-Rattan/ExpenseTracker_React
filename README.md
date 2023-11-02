@@ -1,3 +1,16 @@
+# Expense_Tracker
+This web-app based on CRUD operations which show your specific expenses in more precise and user-friendly way.
+
+## Teach stack used:
+- React + Vite
+- TailWind
+
+# To Run :
+ - Track the code in your system.
+ - Use the following command : 
+        - npm i
+        - npm run dev
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
